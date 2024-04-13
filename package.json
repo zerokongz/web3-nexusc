@@ -1,0 +1,15 @@
+{  
+  "name": "web3-nexusc",  
+  "version": "9.5.8",  
+  "description": "基础依赖插件",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/web3-nexusc"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/web3-nexusc"  
+}
